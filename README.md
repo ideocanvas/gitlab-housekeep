@@ -16,7 +16,7 @@ To set up this project, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://gitlab.com/your-group/gitlab-housekeep.git
+    git clone https://github.com/ideocanvas/gitlab-housekeep.git
     cd gitlab-housekeep
     ```
 
